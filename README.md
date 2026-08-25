@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🌐 Portfolio Personal — Federico Terradas
 
-First, run the development server:
+**Analista en Sistemas & Fullstack Developer**  
+*Córdoba, Argentina*
 
+[![Sitio Web](https://img.shields.io/badge/Demo%20en%20Vivo-Visitar%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://tu-portfolio-url.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-FedeTerradas-181717?style=for-the-badge&logo=github)](https://github.com/FedeTerradas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Terradas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/federicoterradas/)
+
+<p align="center">
+  <a href="#-demo-en-vivo">Demo</a> •
+  <a href="#-tecnolog%C3%ADas">Tecnologías</a> •
+  <a href="#-caracter%C3%ADsticas">Características</a> •
+  <a href="#-proyectos-destacados">Proyectos</a> •
+  <a href="#-instalaci%C3%B3n-y-uso-local">Instalación</a> •
+  <a href="#-contacto">Contacto</a>
+</p>
+
+---
+
+</div>
+
+## 🚀 Demo en Vivo
+
+Puedes ver el portfolio online desplegado en:  
+👉 **[https://tu-portfolio-url.vercel.app](https://tu-portfolio-url.vercel.app)** *(reemplazar por tu enlace definitivo de Vercel o dominio propio)*
+
+---
+
+## 🛠️ Tecnologías
+
+Este portfolio fue construido utilizando las siguientes tecnologías:
+
+- **Core & Framework:** [Next.js](https://nextjs.org/) (App Router), [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)
+- **Estilos & UI:** [Tailwind CSS](https://tailwindcss.com/), [Aceternity UI](https://ui.aceternity.com/), [Lucide Icons](https://lucide.dev/)
+- **Animaciones:** [Framer Motion](https://www.framer.com/motion/)
+- **Tema:** [next-themes](https://github.com/pacocoursey/next-themes) (Modo Claro / Oscuro con persistencia)
+
+---
+
+## ✨ Características
+
+- 🌓 **Modo Oscuro / Claro:** Soporte completo con persistencia y transiciones suaves.
+- 💻 **Terminal Interactiva:** Componente de simulación de terminal en el Hero.
+- ⚡ **Animaciones Fluidas:** Efectos de Spotlight, Macbook Scroll y Card Spotlights mediante Framer Motion y Aceternity UI.
+- 📱 **Diseño 100% Responsivo:** Adaptado para móviles, tablets y monitores de escritorio.
+- 📄 **Descarga de CV:** Acceso directo para descargar el currículum en PDF.
+
+---
+
+## 💼 Proyectos Destacados
+
+- **[Aomori Store](https://www.aomoristore.com.ar/):** Plataforma e-commerce completa con panel de administración, sincronización de stock y tablero Kanban interno.
+- **[Soporte Nutricional](https://nutrition-demo-alpha.vercel.app):** App clínica para cálculo de fórmulas enterales/parenterales y seguimiento de pacientes.
+- **[RouteCard](https://routecard-pwa.vercel.app/):** PWA offline-first para choferes y logística con PostGIS y comprobantes digitales.
+- **[RecycleFlow](https://recycleflow-erp-demo-web.vercel.app/):** Sistema ERP para reciclaje con compras, inventario, ventas y trazabilidad.
+
+---
+
+## 💻 Instalación y Uso Local
+
+Si deseas clonar y ejecutar este proyecto localmente:
+
+### 1. Clonar el repositorio
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/FedeTerradas/portfolio.git
+cd portfolio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Instalar dependencias
+```bash
+npm install
+# o con pnpm
+pnpm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Iniciar el servidor de desarrollo
+```bash
+npm run dev
+# o con pnpm
+pnpm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado.
 
-## Learn More
+### 4. Build de producción
+```bash
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📬 Contacto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **LinkedIn:** [federicoterradas](https://www.linkedin.com/in/federicoterradas/)
+- **GitHub:** [@FedeTerradas](https://github.com/FedeTerradas)
+- **Email:** [federico.terradas04@gmail.com](mailto:federico.terradas04@gmail.com)
