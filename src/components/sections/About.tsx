@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 const stackCategories = [
   {
     label: "Backend & Cloud",
-    items: ["Supabase", "Firebase", "Vercel", "Railway"],
+    items: ["Node.js", "Firebase", "Vercel", "Railway", "Supabase"],
   },
   {
     label: "Frontend",

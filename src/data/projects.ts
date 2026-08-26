@@ -48,7 +48,7 @@ export const projects: Project[] = [
       "A pedido de una Licenciada en Nutrición, relevé su flujo real de trabajo y diseñé una solución que elimina los cálculos manuales. La app permite cargar fórmulas nutricionales con valores por ml, calcular automáticamente los requerimientos de proteína y kcal según el peso del paciente, y registrar la evolución clínica de cada caso. El foco estuvo en la precisión clínica y la simplicidad de uso para la profesional.",
     role: "Fullstack Developer (Freelance)",
     timeline: "Marzo 2026 – Julio 2026",
-    stack: ["Next.js", "React", "TypeScript", "Supabase"],
+    stack: ["Next.js", "React", "TypeScript", "PostgreSQL"],
     status: "Beta",
     url: "https://nutrition-demo-alpha.vercel.app",
     features: [
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     shortDescription:
       "PWA con soporte offline, georreferenciación y roles para digitalizar hojas de ruta y gestión logística de choferes.",
     longDescription:
-      "A pedido de una empresa de logística, relevé los requerimientos del flujo de trabajo en campo y diseñé el análisis funcional completo. Desarrollé una PWA con Service Workers para garantizar disponibilidad offline total. El sistema incluye panel administrativo y vista de chofer con React Router DOM, georreferenciación de rutas via PostGIS, adjunción de comprobantes digitales a través de Cloudinary y backend propio en Node.js + Express con Supabase (PostgreSQL). El objetivo fue eliminar la pérdida de documentación física y facilitar la facturación.",
+      "A pedido de una empresa de logística, relevé los requerimientos del flujo de trabajo en campo y diseñé el análisis funcional completo. Desarrollé una PWA con Service Workers para garantizar disponibilidad offline total. El sistema incluye panel administrativo y vista de chofer con React Router DOM, georreferenciación de rutas via PostGIS, adjunción de comprobantes digitales a través de Cloudinary y backend propio en Node.js + Express con PostgreSQL. El objetivo fue eliminar la pérdida de documentación física y facilitar la facturación.",
     role: "Fullstack Developer (Freelance)",
     timeline: "Diciembre 2025 – Marzo 2026",
     stack: [
@@ -74,7 +74,7 @@ export const projects: Project[] = [
       "Tailwind CSS",
       "Node.js",
       "Express",
-      "Supabase",
+      "PostgreSQL",
       "PostGIS",
       "Cloudinary",
       "PWA",
@@ -100,7 +100,7 @@ export const projects: Project[] = [
       "Desarrollé en un equipo de tres integrantes un sistema de gestión integral para una empresa de compra-venta de materiales reciclables y productos de embalaje. El sistema resolvió la falta total de trazabilidad operativa, centralizando el flujo completo: compras, control de stock, ventas y generación de reportes. Incorporé además módulos de seguridad con roles de usuario y auditoría de operaciones para garantizar la integridad de los datos.",
     role: "Fullstack Developer (Equipo de 3)",
     timeline: "Mayo 2025 – Diciembre 2025",
-    stack: ["React", "Tailwind CSS", "Node.js", "Express", "Supabase"],
+    stack: ["React", "Tailwind CSS", "Node.js", "Express", "PostgreSQL"],
     status: "Demo",
     url: "https://recycleflow-erp-demo-web.vercel.app/",
     features: [

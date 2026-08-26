@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Developer",
     "Next.js",
     "Firebase",
-    "Supabase",
+    "PostgreSQL",
     "Freelance",
     "Córdoba",
     "Argentina",
